@@ -1,0 +1,17 @@
+{
+  "name": "Paint Stock",
+  "short_name": "Paint Stock",
+  "start_url": "./Paint%20Stock.html",
+  "display": "standalone",
+  "background_color": "#e6e6e2",
+  "theme_color": "#1c1e20",
+  "description": "Paint and spray-can inventory",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
